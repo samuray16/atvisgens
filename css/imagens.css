@@ -1,4 +1,4 @@
-.imagem {
+.imagem1, .imagem2, .imagem3 {
     width: 300px;
     height: 200px;
     border-radius: 10px;
@@ -10,4 +10,10 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+}
+.imagem1:hover, .imagem2:hover, .imagem3:hover {
+    transform: scale(1.09);
+    transition: transform 0.3s ease;
+
+
 }

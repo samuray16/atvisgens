@@ -1,0 +1,18 @@
+.botao {
+    border: 5px solid black;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color:rgb(151, 151, 200);
+}
+
+.taxabotao {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.botao:hover {
+    transform: scale(1.09);
+    transition: transform 0.3s ease;
+       background-color:rgb(146, 137, 127);
+    }
