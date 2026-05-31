@@ -1,4 +1,7 @@
 body{
     background-color:darkgrey;
+    background-image: url("../imagens/Pedra-da-Gavea.jpg");
+    background-size: cover;
+    background-position: center;
     
 }

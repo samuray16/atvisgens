@@ -1,12 +1,12 @@
 .titulo, .subtitulo {
     text-align: center;
     font-family: 'Arial', sans-serif;
-    color:black;
+   color:rgb(8, 243, 255); 
 }
 .paragrafo {
     text-align:left;
     font-family: 'Times New Roman', serif;
-    color:black;
+    color:rgb(8, 243, 255);
     margin: 20px;
     font-size: 25px;
     justify-content:left;
